@@ -12,4 +12,4 @@ sortNumber(number);
 console.log(number);
 
 
-テスト追加
+コミットテスト
