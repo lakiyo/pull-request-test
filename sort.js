@@ -12,4 +12,3 @@ sortNumber(number);
 console.log(number);
 
 
-コミットテスト
