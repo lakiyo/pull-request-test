@@ -12,5 +12,3 @@ sortNumber(number);
 console.log(number);
 
 suggest test 1 
-
-comment test 2
